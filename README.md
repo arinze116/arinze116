@@ -1,46 +1,46 @@
-# Arinze
+# Hi, I'm Arinze
 
-**Software Engineer · Security Researcher · AI & Automation Builder**
+I build software that solves practical problems. My projects include web applications, AI-powered workflows, developer tools, and blockchain utilities. I care about making software useful, understandable, and reliable, with security considered from the start.
 
-I build practical software, developer tools, and automation systems. My work spans web applications, AI integrations, blockchain tooling, and application security—with an emphasis on clear architecture, testable behavior, and understanding how systems fail.
+**Software development · AI and automation · Application security**
 
-[Portfolio](https://arinzelab.vercel.app) · [X](https://x.com/arinze116)
+[Portfolio](https://arinzelab.vercel.app) · [X](https://x.com/arinze116) · [GitHub](https://github.com/arinze116)
 
----
+## What I'm working on
 
-## What I work on
+- Building web apps and backend workflows that are straightforward to maintain.
+- Exploring AI integrations and MCP tools that make everyday development work easier.
+- Learning and applying application security practices, including threat modeling and safer handling of untrusted input.
+- Turning useful ideas into small products that people can actually use.
 
-- **Software engineering** — web applications, APIs, backend workflows, and maintainable systems.
-- **AI & automation** — MCP integrations and tools that connect models to useful workflows.
-- **Security engineering** — application security, vulnerability analysis, threat modeling, and defensive tooling.
-- **Developer products** — practical utilities built around real user needs.
+## Projects
 
-## Selected work
+### [Arinze Lab](https://github.com/arinze116/arinze-lab)
+My personal portfolio and technical publication site, built with Next.js and TypeScript. It uses repository-backed content and a Telegram workflow to manage published material.
 
-| Project | What it does |
-| --- | --- |
-| [Arinze Lab](https://github.com/arinze116/arinze-lab) | A Next.js technical portfolio and publication site with repository-backed content and a Telegram-based content workflow. |
-| [Dupload](https://github.com/arinze116/Dupload) | A Telegram media downloader and processing bot using Node.js, yt-dlp, FFmpeg, and Telegraf. |
-| [Transly](https://github.com/arinze116/Transly) | An asynchronous Telegram bot that produces timestamped English transcripts from audio, video, and supported public media URLs. |
-| [Mint Runner](https://github.com/arinze116/Mint-Runner) | A Telegram bot for manual on-chain mint workflows, with contract/link mint flows and configurable transaction settings. |
-| [Mint Pilot](https://github.com/arinze116/Mint-Pilot) | Another project in my developer-tooling portfolio. |
+**Live site:** [arinzelab.vercel.app](https://arinzelab.vercel.app)
 
-## Engineering principles
+### [Dupload](https://github.com/arinze116/Dupload)
+A Telegram bot for downloading and processing media. It brings together Node.js, Telegraf, yt-dlp, and FFmpeg, with support for large files and common media conversion tasks.
 
-- Understand the problem before choosing the technology.
-- Prefer explicit interfaces, clear boundaries, and maintainable implementations.
-- Treat security, testing, observability, and failure handling as engineering requirements.
-- Verify behavior with reproducible evidence—not assumptions.
-- Document setup, limitations, and trade-offs so others can evaluate the work.
+### [Transly](https://github.com/arinze116/Transly)
+A Telegram bot that turns supported audio, video, and public media links into timestamped English transcripts. It uses FFmpeg for media processing and AI services for transcription and translation.
 
-## Current focus
+### [Mint Runner](https://github.com/arinze116/Mint-Runner)
+A Telegram tool for running manual on-chain mint workflows, including contract and link-based minting with configurable transaction settings.
 
-Building stronger engineering fundamentals, improving the reliability and security of my projects, exploring AI-powered developer workflows, and shipping tools that solve concrete problems.
+## How I like to build
 
-## Collaboration
+- Start with the user problem, then choose the tools.
+- Keep code and system boundaries clear.
+- Test important behavior and verify changes instead of relying on assumptions.
+- Think about security, failure cases, and maintenance before they become production problems.
+- Write documentation that helps someone else set up the project and understand its limits.
 
-I'm interested in software engineering opportunities, contract development, security-focused projects, developer tooling, and technical collaborations.
+## What I'm looking for
 
-If you're working on a useful product and value careful implementation, testing, and security, let's connect.
+I'm open to software development roles, contract work, useful open-source collaborations, and projects involving developer tools, automation, or application security.
 
-[Portfolio](https://arinzelab.vercel.app) · [GitHub](https://github.com/arinze116) · [X @arinze116](https://x.com/arinze116)
+If you have a concrete problem to solve, take a look at my work and get in touch.
+
+[Visit my portfolio](https://arinzelab.vercel.app) · [Follow me on X](https://x.com/arinze116)

@@ -1,4 +1,4 @@
-# Hi, I'm Arinze
+# Arinze Chinweuba
 
 I build software at the intersection of **AI, developer tools, automation, and application security**.
 
@@ -56,4 +56,4 @@ My personal portfolio and technical publication site, with repository-backed con
 
 I'm interested in useful software projects, engineering collaborations, and opportunities involving AI, backend systems, developer tools, and application security.
 
-[Explore my portfolio](https://arinzelab.vercel.app) · [Connect on LinkedIn](https://www.linkedin.com/in/arinzechinweuba) · [Follow me on X](https://x.com/arinze83)
+[Portfolio](https://arinzelab.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arinzechinweuba) · [X](https://x.com/arinze83)

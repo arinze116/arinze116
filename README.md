@@ -1,46 +1,59 @@
 # Hi, I'm Arinze
 
-I build software that solves practical problems. My projects include web applications, AI-powered workflows, developer tools, and blockchain utilities. I care about making software useful, understandable, and reliable, with security considered from the start.
+I build software at the intersection of **AI, developer tools, automation, and application security**.
 
-**Software development · AI and automation · Application security**
+I enjoy turning practical problems into working systems, with a focus on clear architecture, reliable workflows, and security-conscious engineering.
 
-[Portfolio](https://arinzelab.vercel.app) · [X](https://x.com/arinze116) · [GitHub](https://github.com/arinze116)
+[Portfolio](https://arinzelab.vercel.app) · [GitHub](https://github.com/arinze116) · [X](https://x.com/arinze83) · [LinkedIn](https://www.linkedin.com/in/arinzechinweuba)
 
-## What I'm working on
+## Featured Projects
 
-- Building web apps and backend workflows that are straightforward to maintain.
-- Exploring AI integrations and MCP tools that make everyday development work easier.
-- Learning and applying application security practices, including threat modeling and safer handling of untrusted input.
-- Turning useful ideas into small products that people can actually use.
+### [DupTrace](https://github.com/arinze116/DupTrace)
+**Evidence-first AI incident investigation · MCP · Node.js**
 
-## Projects
+An agentic investigation assistant that uses Model Context Protocol (MCP) tools to gather operational evidence, inspect incidents, and explain findings through a multi-step workflow. Its interface exposes tool activity and distinguishes observed facts from unconfirmed hypotheses.
 
-### [Arinze Lab](https://github.com/arinze116/arinze-lab)
-My personal portfolio and technical publication site, built with Next.js and TypeScript. It uses repository-backed content and a Telegram workflow to manage published material.
+[Live demo](https://duptrace.vercel.app)
 
-**Live site:** [arinzelab.vercel.app](https://arinzelab.vercel.app)
-
-### [Dupload](https://github.com/arinze116/Dupload)
-A Telegram bot for downloading and processing media. It brings together Node.js, Telegraf, yt-dlp, and FFmpeg, with support for large files and common media conversion tasks.
+*Note: The current demo uses fixture data rather than live production monitoring.*
 
 ### [Transly](https://github.com/arinze116/Transly)
-A Telegram bot that turns supported audio, video, and public media links into timestamped English transcripts. It uses FFmpeg for media processing and AI services for transcription and translation.
+**AI transcription and translation · Python · FFmpeg · Telegram**
+
+A Telegram bot that processes audio, video, and supported public media URLs into timestamped English transcripts. It uses speech recognition and translation models, a persistent job queue, and documented deployment safeguards for handling untrusted URLs.
+
+### [Dupload](https://github.com/arinze116/Dupload)
+**Media automation · Node.js · Telegraf · yt-dlp · FFmpeg**
+
+A Telegram media-processing bot with download queues, quality selection, audio extraction, progress reporting, rate limiting, and automated file handling.
 
 ### [Mint Runner](https://github.com/arinze116/Mint-Runner)
-A Telegram tool for running manual on-chain mint workflows, including contract and link-based minting with configurable transaction settings.
+**Blockchain tooling · Telegram · Smart-contract interactions**
 
-## How I like to build
+A Telegram tool for manual on-chain mint workflows, including contract- and link-based minting, configurable transaction settings, and wallet-related commands.
 
-- Start with the user problem, then choose the tools.
-- Keep code and system boundaries clear.
-- Test important behavior and verify changes instead of relying on assumptions.
-- Think about security, failure cases, and maintenance before they become production problems.
-- Write documentation that helps someone else set up the project and understand its limits.
+### [Arinze Lab](https://github.com/arinze116/arinze-lab)
+**Portfolio and technical publishing · Next.js · TypeScript**
 
-## What I'm looking for
+My personal portfolio and technical publication site, with repository-backed content and a Telegram workflow for managing published material.
 
-I'm open to software development roles, contract work, useful open-source collaborations, and projects involving developer tools, automation, or application security.
+## Areas I'm Exploring
 
-If you have a concrete problem to solve, take a look at my work and get in touch.
+- **AI systems:** Tool-using agents, MCP integrations, and practical AI workflows.
+- **Backend and automation:** APIs, asynchronous processing, queues, and maintainable services.
+- **Application security:** Trust boundaries, input validation, SSRF mitigation, and safer system design.
+- **Blockchain development:** Tools and workflows for interacting with on-chain applications.
 
-[Visit my portfolio](https://arinzelab.vercel.app) · [Follow me on X](https://x.com/arinze116)
+## Engineering Principles
+
+- Start with the problem, not the framework.
+- Make system boundaries and assumptions explicit.
+- Test important behavior and verify changes.
+- Account for failure modes and security risks.
+- Document setup instructions, limitations, and operational requirements.
+
+## Let's Connect
+
+I'm interested in useful software projects, engineering collaborations, and opportunities involving AI, backend systems, developer tools, and application security.
+
+[Explore my portfolio](https://arinzelab.vercel.app) · [Connect on LinkedIn](https://www.linkedin.com/in/arinzechinweuba) · [Follow me on X](https://x.com/arinze83)

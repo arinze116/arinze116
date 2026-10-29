@@ -4,7 +4,7 @@ I build software at the intersection of **AI, developer tools, automation, and a
 
 I enjoy turning practical problems into working systems, with a focus on clear architecture, reliable workflows, and security-conscious engineering.
 
-[Portfolio](https://arinzelab.vercel.app) · [GitHub](https://github.com/arinze116) · [X](https://x.com/arinze83) · [LinkedIn](https://www.linkedin.com/in/arinzechinweuba)
+[GitHub](https://github.com/arinze116) · [X](https://x.com/arinze83) · [LinkedIn](https://www.linkedin.com/in/arinzechinweuba)
 
 ## Featured Projects
 
@@ -27,22 +27,12 @@ A Telegram bot that processes audio, video, and supported public media URLs into
 
 A Telegram media-processing bot with download queues, quality selection, audio extraction, progress reporting, rate limiting, and automated file handling.
 
-### [Mint Runner](https://github.com/arinze116/Mint-Runner)
-**Blockchain tooling · Telegram · Smart-contract interactions**
-
-A Telegram tool for manual on-chain mint workflows, including contract- and link-based minting, configurable transaction settings, and wallet-related commands.
-
-### [Arinze Lab](https://github.com/arinze116/arinze-lab)
-**Portfolio and technical publishing · Next.js · TypeScript**
-
-My personal portfolio and technical publication site, with repository-backed content and a Telegram workflow for managing published material.
-
 ## Areas I'm Exploring
 
 - **AI systems:** Tool-using agents, MCP integrations, and practical AI workflows.
 - **Backend and automation:** APIs, asynchronous processing, queues, and maintainable services.
 - **Application security:** Trust boundaries, input validation, SSRF mitigation, and safer system design.
-- **Blockchain development:** Tools and workflows for interacting with on-chain applications.
+- **Developer tools:** Practical utilities that make technical workflows more reliable.
 
 ## Engineering Principles
 
@@ -56,4 +46,4 @@ My personal portfolio and technical publication site, with repository-backed con
 
 I'm interested in useful software projects, engineering collaborations, and opportunities involving AI, backend systems, developer tools, and application security.
 
-[Portfolio](https://arinzelab.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arinzechinweuba) · [X](https://x.com/arinze83)
+[LinkedIn](https://www.linkedin.com/in/arinzechinweuba) · [X](https://x.com/arinze83)
